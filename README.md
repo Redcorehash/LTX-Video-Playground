@@ -16,6 +16,28 @@
 - **Обработка видео**: Автоматическая обработка видео для улучшения качества, стабилизации и других задач.
 - **Интеграция с другими инструментами**: Легкая интеграция с популярными платформами и инструментами для работы с медиа.
 
+## Примеры видео
+
+Ниже приведены примеры видео, созданные с использованием модели **LTX-Video-Playground**:
+
+### Пример 1
+<video controls width="100%">
+  <source src="https://github.com/Redcorehash/Video/raw/refs/heads/main/i2v_2.mp4" type="video/mp4">
+  Ваш браузер не поддерживает тег video.
+</video>
+
+### Пример 2
+<video controls width="100%">
+  <source src="https://github.com/Redcorehash/Video/raw/refs/heads/main/i2v_1.mp4" type="video/mp4">
+  Ваш браузер не поддерживает тег video.
+</video>
+
+### Пример 3
+<video controls width="100%">
+  <source src="https://github.com/Redcorehash/Video/raw/refs/heads/main/i2v_0.mp4" type="video/mp4">
+  Ваш браузер не поддерживает тег video.
+</video>
+
 ## Установка
 
 Для использования модели **LTX-Video-Playground** необходимо установить следующие зависимости:
