@@ -68,3 +68,7 @@ video = generator.generate(input_data)
 
 # Сохранение видео
 video.save("output_video.mp4")
+
+#Заключение
+Скоро я сделаю проект о suno(надеюсь вам понравиться этот, проект)
+Всем пока
