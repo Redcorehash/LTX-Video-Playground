@@ -1,5 +1,6 @@
 # Lightricks/LTX-Video-Playground
 
+# Ссылки
 [![Официальный сайт](https://img.shields.io/badge/Официальный_сайт-Lightricks-blue?style=flat-square&logo=lightricks&logoColor=white)](https://www.lightricks.com)
 [![GitHub Проект](https://img.shields.io/badge/GitHub-LTX_Video-black?style=flat-square&logo=github)](https://github.com/Lightricks/LTX-Video)
 [![ComfyUI](https://img.shields.io/badge/ComfyUI-LTX_Video-green?style=flat-square&logo=github)](https://github.com/Lightricks/ComfyUI-LTXVideo)
