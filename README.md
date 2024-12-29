@@ -7,6 +7,8 @@
 [![Подписаться](https://img.shields.io/badge/Подписаться-Lightricks-orange?style=flat-square&logo=huggingface)](https://huggingface.co/Lightricks)
 [![Результаты видео](https://img.shields.io/badge/Результаты_видео-Скачать-blue?style=flat-square)](https://download.ru/folders/xpmp2Pcq)
 [![Результаты изображений](https://img.shields.io/badge/Результаты_изображений-Скачать-purple?style=flat-square)](https://download.ru/folders/uKzUOQsT)
+[![Twitter](https://img.shields.io/badge/Подписаться-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/Lightricks)
+[![GitHub](https://img.shields.io/badge/Подписаться-GitHub-black?style=flat-square&logo=github)](https://github.com/lightricks)
 
 Модель **LTX-Video-Playground** от компании **Lightricks** представляет собой инновационное решение для работы с видео. Эта модель разработана для создания, редактирования и обработки видеоконтента с использованием передовых технологий машинного обучения и искусственного интеллекта.
 
