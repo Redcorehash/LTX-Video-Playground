@@ -17,6 +17,19 @@
 - **Обработка видео**: Автоматическая обработка видео для улучшения качества, стабилизации и других задач.
 - **Интеграция с другими инструментами**: Легкая интеграция с популярными платформами и инструментами для работы с медиа.
 
+## Изображения, использованные в видео
+
+Ниже приведены изображения, которые использовались для создания видео:
+
+### Изображение 1
+<img src="https://raw.githubusercontent.com/Redcorehash/LTX-Video-Playground/refs/heads/main/i2v_i2.png" alt="Изображение 1" width="300">
+
+### Изображение 2
+<img src="https://raw.githubusercontent.com/Redcorehash/LTX-Video-Playground/refs/heads/main/i2v_i0.png" alt="Изображение 2" width="300">
+
+### Изображение 3
+<img src="https://raw.githubusercontent.com/Redcorehash/LTX-Video-Playground/refs/heads/main/i2v_i1.png" alt="Изображение 3" width="300">
+
 ## Установка
 
 Для использования модели **LTX-Video-Playground** необходимо установить следующие зависимости:
