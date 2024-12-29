@@ -1,5 +1,5 @@
 <p align="left">
-    english</a>&nbsp ｜ &nbsp<a href="README_CH.md">中国人</a> ｜ &nbsp<a href="README_RU.md">Русский</a> ｜
+    english</a>&nbsp ｜ &nbsp<a href="README_CH.md">中国人</a> ｜ &nbsp<a href="README.md">Русский</a> ｜
 </p>
 <br><br>
 
