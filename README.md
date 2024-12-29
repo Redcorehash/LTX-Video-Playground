@@ -1,3 +1,7 @@
+<p align="left">
+    русский</a>&nbsp ｜ &nbsp<a href="README_EN.md">English</a>&nbsp ｜ &nbsp<a href="README_CH.md">中国人</a> 
+
+
 # Lightricks/LTX-Video-Playground
 
 # Ссылки
