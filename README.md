@@ -1,5 +1,7 @@
 # Lightricks/LTX-Video-Playground
 
+[![Официальный сайт](https://img.shields.io/badge/Официальный_сайт-Lightricks-blue?style=flat-square&logo=lightricks&logoColor=white)](https://www.lightricks.com)
+
 Модель **LTX-Video-Playground** разработана компанией **Lightricks** для работы с видео-контентом. Она предоставляет инструменты для создания, редактирования и обработки видео с использованием современных технологий машинного обучения и компьютерного зрения.
 
 ## Основные возможности
